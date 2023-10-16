@@ -1,0 +1,10 @@
+{
+  "name": "xmp-toolkit-sdk",
+  "version-string": "6.0.0",
+  "description": "Adobe’s Extensible Metadata Platform (XMP)",
+  "homepage": "https://www.adobe.com/products/xmp.html",
+  "dependencies": [
+    "expat",
+    "zlib"
+  ]
+}
