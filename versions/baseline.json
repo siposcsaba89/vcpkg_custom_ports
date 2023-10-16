@@ -1,0 +1,6 @@
+{
+    "default": {
+        "xmp-toolkit-sdk": {"baseline": "6.0.0", "port-version": 0},
+        "dng-sdk": {"baseline": "1.7.0", "port-version": 0}
+    }
+}

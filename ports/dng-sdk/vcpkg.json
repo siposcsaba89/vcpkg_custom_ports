@@ -1,0 +1,12 @@
+{
+  "name": "dng-sdk",
+  "version-string": "1.7.0",
+  "description": "Adobe DNG Software Development Kit",
+  "homepage": "https://helpx.adobe.com/camera-raw/digital-negative.html#dng_sdk_download",
+  "dependencies": [
+    "xmp-toolkit-sdk",
+    "libjpeg-turbo",
+    "zlib",
+    "libjxl"
+  ]
+}
